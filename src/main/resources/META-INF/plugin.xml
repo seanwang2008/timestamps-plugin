@@ -12,7 +12,7 @@
     </applicationListeners>
     <actions>
         <action id="TimestampConverter.Convert"
-                class="com.bin.plugin.TimestampConverterAction"
+                class="com.bin.plugin.timestamp.TimestampConverterAction"
                 text="Convert Timestamp" 
                 description="Convert timestamp to UTC datetime">
             <add-to-group group-id="ToolsMenu" anchor="last"/>

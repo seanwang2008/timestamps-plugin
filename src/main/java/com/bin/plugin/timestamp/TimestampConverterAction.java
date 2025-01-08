@@ -1,4 +1,4 @@
-package com.bin.plugin;
+package com.bin.plugin.timestamp;
 
 import com.intellij.openapi.actionSystem.AnAction;
 import com.intellij.openapi.actionSystem.AnActionEvent;
