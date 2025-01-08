@@ -1,4 +1,4 @@
-package com.github.seanwang2008.timestampsplugin.listeners
+package com.bin.timestamps.listeners
 
 import com.intellij.openapi.application.ApplicationActivationListener
 import com.intellij.openapi.diagnostic.thisLogger

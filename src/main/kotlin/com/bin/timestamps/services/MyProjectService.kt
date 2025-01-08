@@ -1,9 +1,9 @@
-package com.github.seanwang2008.timestampsplugin.services
+package com.bin.timestamps.services
 
 import com.intellij.openapi.components.Service
 import com.intellij.openapi.diagnostic.thisLogger
 import com.intellij.openapi.project.Project
-import com.github.seanwang2008.timestampsplugin.MyBundle
+import com.bin.timestamps.MyBundle
 
 @Service(Service.Level.PROJECT)
 class MyProjectService(project: Project) {

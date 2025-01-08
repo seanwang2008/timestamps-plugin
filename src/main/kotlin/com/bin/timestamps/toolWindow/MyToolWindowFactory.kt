@@ -1,4 +1,4 @@
-package com.github.seanwang2008.timestampsplugin.toolWindow
+package com.bin.timestamps.toolWindow
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.diagnostic.thisLogger
@@ -8,8 +8,8 @@ import com.intellij.openapi.wm.ToolWindowFactory
 import com.intellij.ui.components.JBLabel
 import com.intellij.ui.components.JBPanel
 import com.intellij.ui.content.ContentFactory
-import com.github.seanwang2008.timestampsplugin.MyBundle
-import com.github.seanwang2008.timestampsplugin.services.MyProjectService
+import com.bin.timestamps.MyBundle
+import com.bin.timestamps.services.MyProjectService
 import javax.swing.JButton
 
 
