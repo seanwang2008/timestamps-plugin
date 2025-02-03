@@ -19,7 +19,7 @@ public class TimestampConverterAction extends AnAction {
     @Override
     public void actionPerformed(@NotNull AnActionEvent e) {
         String input = Messages.showInputDialog(
-            "Enter timestamp (milliseconds):",
+            "Enter timestamp (milliseconds)(e.g. 1738571583000):",
             "Timestamp Converter",
             Messages.getQuestionIcon()
         );
